@@ -6,7 +6,7 @@
       </ion-toolbar>
     </ion-header>
     <ion-content class="ion-padding">
-      <ExploreContainer name="Tab 1 page" />
+      <explore-container name="Tab 1 page" />
     </ion-content>
   </ion-page>
 </template>
